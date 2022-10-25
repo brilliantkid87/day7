@@ -1,0 +1,143 @@
+/* * */
+* {
+    box-sizing: border-box;
+    font-family: "Poppins", monospace;
+}
+  
+/* Navbar */
+.navbar-me {
+  background-color: #f4f3f3 !important;
+}
+  
+/* Active Navbar */
+.active-me {
+  font-weight: bold;
+  color: #0d0d0d !important;
+}
+  
+/* Button */
+.btn-me {
+  background-color: #0d0d0d !important;
+  color: #ffffff !important;
+}
+  
+.btn-me:hover {
+  background-color: #0d0d0dcc !important;
+  color: #ffffff !important;
+}
+  
+/* Button Rounded*/
+.btn-round-me {
+  background-color: #0d0d0d !important;
+  color: #ffffff !important;
+  border-radius: 20px;
+}
+  
+.btn-round-me:hover {
+  background-color: #0d0d0dcc !important;
+  color: #ffffff !important;
+}
+  
+/* About Section */
+.about-section {
+  padding: 150px 0 75px 0;
+  background-color: #8bd3dd !important;
+}
+
+/* image about section */
+.give-hover1 {
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.give-hover1:hover {
+  background-color: #8bd3dd;
+}
+  
+/* Text Justify */
+.text-justify-me {
+  text-align: justify;
+}
+  
+/* CV File */
+.cv-file {
+  text-decoration: none;
+  margin-left: 15px;
+  color: #0d0d0d;
+}
+  
+.cv-file:hover {
+  color: #0d0d0dcc;
+}
+    
+/* Project Section */
+.project-section {
+  padding: 75px 0;
+  background-color: #ffbdca !important;
+}
+  
+/* Programming Language */
+.lang i {
+  font-size: 30px;
+  margin-right: 15px;
+}
+  
+/* Button Two */
+.button-me {
+  width: 100%;
+  display: flex;
+}
+  
+.btn-edit-me {
+  background-color: #0d0d0d !important;
+  color: #ffffff !important;
+  width: 49%;
+  margin-right: 1%;
+  padding: 3px 0;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 10px;
+}
+  
+.btn-edit-me:hover {
+  background-color: #0d0d0dcc !important;
+  color: #ffffff !important;
+}
+  
+.btn-del-me {
+  background-color: #0d0d0d !important;
+  color: #ffffff !important;
+  width: 49%;
+  margin-right: 1%;
+  padding: 3px 0;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 10px;
+}
+  
+.btn-del-me:hover {
+  background-color: #0d0d0dcc !important;
+  color: #ffffff !important;
+}
+  
+/* Add Project Section */
+.addproject-section {
+  padding: 150px 0 75px 0;
+  background-color: #8bd3dd !important;
+}
+  
+/* Add Project Section */
+.contact-section {
+  padding: 150px 0 75px 0;
+  background-color: #8bd3dd !important;
+}
+
+/* Image */
+.give-hover1 {
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.give-hover1:hover {
+  background-color: #8bd3dd;
+}
